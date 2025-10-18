@@ -1,0 +1,20 @@
+package Experiment02;
+import java.util.Scanner;
+public class Average {
+    public static void main() {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the first number");
+        double num1 = sc.nextDouble();
+        System.out.println("Enter the second number");
+        double num2 = sc.nextDouble();
+        System.out.println("Enter the third number");
+        double num3 = sc.nextDouble();
+        sc.close();
+        System.out.println("The average of entered numbers is:" + avr(num1, num2, num3));
+    }
+
+    public static double avr(double a, double b, double c) {
+        return (a + b + c) / 3;
+    }
+}
+
