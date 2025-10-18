@@ -1,0 +1,4 @@
+Objective -
+Create a class 'Student' with String variable 'name' and integer variable 'roll_no'.
+Assign the value of roll_no as '4' and that of the name as "Yusuf",
+by creating an object of the class Student.
