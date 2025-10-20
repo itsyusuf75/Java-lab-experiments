@@ -21,10 +21,3 @@ This repository contains a collection of Java lab experiments demonstrating core
 *Future experiments will be added in the same structured format.*
 
 ---
-
-## How to Run
-
-1. Open the folder in **IntelliJ IDEA** or any Java IDE.  
-2. Compile the Java class if using terminal:
-   ```bash
-   javac ClassName.java
